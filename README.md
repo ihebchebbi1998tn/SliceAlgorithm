@@ -21,7 +21,7 @@ Check out a live demo of the Image Slicing Algorithm [here](https://your-demo-li
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/image-slicing-algorithm.git
+   git clone https://github.com/ihebchebbi1998tn/SliceAlgorithm.git
    cd image-slicing-algorithm
 
 
