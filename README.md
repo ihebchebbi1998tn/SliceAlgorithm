@@ -1,0 +1,2 @@
+# SliceAlgorithm
+Image slicing algorithm
