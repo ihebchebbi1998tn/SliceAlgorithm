@@ -13,9 +13,6 @@ The **Image Slicing Algorithm** is a powerful and efficient way to render images
 - **React Integration**: Seamlessly integrates with React applications.
 - **Responsive Design**: Automatically adjusts to various screen sizes and layouts.
 
-## 🌐 Live Demo
-
-Check out a live demo of the Image Slicing Algorithm [here](https://your-demo-link.com).
 
 ## 🔧 Installation
 
